@@ -1,1 +1,3 @@
 # Classification-of-Cervical-Cancer-Tissue-using-Ensemble-Stacking
+
+In this study, different deep learning models and texture based methods for recognising colorectal cancer tissue using CNN were compared. The stacking ensemble model of ResNet18 network model and EfficientNetB0 network model with improved parameters and modified layers showed a better result with accuracy of 98.2%. Colorectal Cancer histological images were used as experimental datasets. Modification of deep learning networks can increase the accuracy of detection of cancer tissues which in turn can enhance doctor’s critical thinking and patient’s proper diagnosis. 
